@@ -1,0 +1,5 @@
+# application bulk data
+/logs
+/public/assets/photos
+/multer-temporary-store
+/node_modules
